@@ -26,3 +26,6 @@ Every screenshot should have some text explaining what the screenshot is about.
 Example below.
 
 *Ref 1: Network Diagram*
+
+![image](https://github.com/louislo42/SOC-Automation-Project/assets/41923915/883798d2-38dc-49a5-83cf-07b275cfc3c6)
+
